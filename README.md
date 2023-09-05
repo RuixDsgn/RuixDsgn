@@ -61,3 +61,5 @@
 <h3>📈 My Github History</h3>
 ![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuixDsgn&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuixDsgn)](https://github.com/RuixDsgn/github-readme-stats)
+
+![Snake animation](https://github.com/RuixDsgn/RuixDsgn/blob/output/github-contribution-grid-snake.svg)
