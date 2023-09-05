@@ -58,8 +58,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='45' width='45' /> 
 </p>
 
-<h3>📈 My GitHub Activity</h3>
-![](https://raw.githubusercontent.com/RuixDsgn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/RuixDsgn/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
 
