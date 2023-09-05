@@ -42,7 +42,6 @@
 
 <h3>My tech & tool stack ✨</h3>
 <p align='left'>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height='45' width='45' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height='45' width='45' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height='45' width='45'/>
@@ -56,7 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height='45' width='45'/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height='45' width='45' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height='45' width='45'/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='45' width='45' />
-          
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='45' width='45' /> 
 </p>
+
+<h3>📈 My Github History</h3>
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuixDsgn&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuixDsgn)](https://github.com/RuixDsgn/github-readme-stats)
