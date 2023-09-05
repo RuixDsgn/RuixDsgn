@@ -58,8 +58,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height='45' width='45' /> 
 </p>
 
-<h3>📈 My Github History</h3>
-![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruixdsgn&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruixdsgn)](https://github.com/ruixdsgn/github-readme-stats)
+<h3>📈 My GitHub Activity</h3>
+![](https://raw.githubusercontent.com/RuixDsgn/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/RuixDsgn/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![Snake animation](https://github.com/RuixDsgn/RuixDsgn/blob/output/github-contribution-grid-snake.svg)
+
